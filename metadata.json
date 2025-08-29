@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Zarrar Image Gen",
+  "description": "A tool to generate images from a script using the Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
